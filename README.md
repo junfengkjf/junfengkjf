@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junfengkjf
-- 👀 I’m interested in GNN and combinational optimization.
-- 🌱 I’m currently learning machine learning.
+- 👀 I’m interested in GNN for combinational optimization.
+- 🌱 I’m currently learning combinational optimization.
 - 📫 How to reach me
 - 😄 E-mail: kjf2023@163.com
 - ⚡ Fun fact: ...
