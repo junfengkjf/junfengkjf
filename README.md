@@ -2,7 +2,7 @@
 - 👀 I’m interested in GNN for combinational optimization.
 - 🌱 I’m currently learning combinational optimization.
 - 📫 How to reach me
-- 😄 E-mail: kjf2023@163.com
+- 😄 E-mail: 
 - ⚡ Fun fact: ...
 
 <!---
